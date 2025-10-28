@@ -15,7 +15,7 @@ insights = [
     "Quick Tip: Dropout layers help prevent overfitting in neural networks.",
     "AI Fact: Transformers allow models to focus on relevant parts of sequences."
     "AI Fact : The Healthcare AI Imaging Market to Exceed $7 Billion by 2026"
-    "AI Fact:AI in the Insurance Sector to Trim Claims Processing Time by 70%."
+    "AI Fact:AI in the Insurance Sector to Trim Claims Processing time by 70%."
     "AI Fact:AI literacy programs are now part of national curriculam in more than 20 countries"
 ]
 
