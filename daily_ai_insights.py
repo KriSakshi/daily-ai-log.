@@ -10,7 +10,7 @@ import os
 insights = [
     "AI Fact: Neural networks can recognize handwritten digits with >99% accuracy.",
     "AI Tip: Normalizing input data improves training speed and performance.",
-    "Mini Example: In NLP, tokenization splits text into words or subwords.",
+    "Mini Example: In NLP, tokenization splits text into words or subwords..",
     "AI Fun Fact: GANs can generate realistic human faces that don't exist!",
     "Quick Tip: Dropout layers help prevent overfitting in neural networks.",
     "AI Fact: Transformers allow models to focus on relevant parts of sequences."
