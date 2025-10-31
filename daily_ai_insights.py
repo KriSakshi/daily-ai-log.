@@ -20,7 +20,7 @@ insights = [
 ]
 
 # Pick a random insight
-daily_insight = random.choice(insights)
+daily_insight = random.choice(insighs)
 
 # Optional: Fetch from OpenAI API (uncomment to use real AI-generated content)
 # response = client.responses.create(
